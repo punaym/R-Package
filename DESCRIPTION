@@ -1,0 +1,11 @@
+Package: readall
+Type: Package
+Title: Can read all types of data files
+Version: 0.1.0
+Author: Punay Mehra
+Maintainer: Punay Mehra <punay.mehra@gmail.com>
+Description: This package has inbuilt function to read multiple Data file formats using windows explorer to nevigate and select the file.
+             No need to enter file DIR addres manually.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
